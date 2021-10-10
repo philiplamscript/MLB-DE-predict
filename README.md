@@ -5,5 +5,6 @@
 
 
 Here is the model on my project, where
-1) ..... for modeling stepup
-2) ..... is code on applying to application future data
+1) ..... pre modeling researching
+2) ..... data select to training data, feature variable building, modeling stepup
+3) ..... code on applying to future application data as a final source in competition
