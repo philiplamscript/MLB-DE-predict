@@ -17,7 +17,7 @@ pre modeling researching, focus on
 Data clean, selection to training data, feature variable building, modeling stepup.
 Build the final model which will apply in **mlb-trained-model-submission.ipynb**.
 
-non-runned code after model trained, for further study on parameter and features.
+P.S. non-runned code after model trained can be igorne, which is further study on parameter and features.
 
 **mlb-trained-model-submission.ipynb**
 
