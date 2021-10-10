@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/74084724/134948391-941cf203-7c1b-4555-a59c-40623e951f04.png)
 
 
-Here is the model on my project, where
+Here is the Code on my project, where
 
 **mlb-explorer.ipynb:**
 
@@ -14,8 +14,8 @@ pre modeling researching, focus on
 
 **model-tune-train-model-and-data-export.ipynb**
 
-data select to training data, feature variable building, modeling stepup, non-runned code after model trained, for further study on parameter and features
+Data clean, selection to training data, feature variable building, modeling stepup, non-runned code after model trained, for further study on parameter and features
 
 **mlb-trained-model-submission.ipynb**
 
-code on applying to future application data as a final source in competition
+Code on applying to future application data as a final source in competition
