@@ -14,7 +14,10 @@ pre modeling researching, focus on
 
 **model-tune-train-model-and-data-export.ipynb**
 
-Data clean, selection to training data, feature variable building, modeling stepup, non-runned code after model trained, for further study on parameter and features
+Data clean, selection to training data, feature variable building, modeling stepup.
+Build the final model which will apply in **mlb-trained-model-submission.ipynb**
+
+non-runned code after model trained, for further study on parameter and features
 
 **mlb-trained-model-submission.ipynb**
 
