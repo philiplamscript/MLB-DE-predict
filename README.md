@@ -5,7 +5,7 @@
 
 Competition link: https://www.kaggle.com/c/mlb-player-digital-engagement-forecasting
 
-Here is the Code on my project, where:
+Here is the Code on project, where:
 
 **mlb-explorer.ipynb:**
 
